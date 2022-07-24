@@ -8,4 +8,5 @@ It is a simple one-page static site created with HTML and CSS as a beginner leve
 <br />
 ![](images/site3.png)
 
-__Any desirable changes will always be welcomed 
+>**Any desirable changes will always be welcomed** 
+
